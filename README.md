@@ -1,4 +1,4 @@
-#Hola ! Soy Alvarez Jesica 👋                             ![image](https://user-images.githubusercontent.com/78943636/202448473-686316e3-4d2a-46d1-b138-965fd319c440.png)
+![image](https://user-images.githubusercontent.com/78943636/202449951-e5cf884b-efe6-4ec3-8764-ad46547a3399.png) Hola ! Soy Alvarez Jesica 👋 
 
 
 
