@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/78943636/202449951-e5cf884b-efe6-4ec3-8764-ad46547a3399.png) Hola ! Soy Alvarez Jesica 👋 
+ 👋  Hola ! Soy Alvarez Jesica
 
 
 
