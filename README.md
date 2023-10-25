@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Actualmente estoy por empezar la Licenciatura en Analisis y Gestion de Datos.
+- 🌱 Actualmente estoy en 2do año de la Tecnicatura en Desarrollo de Software .
 - 👯 Busco colaborar en proyectos donde pueda desempeñarme como Frontend.
 - 💬 Pregúntame sobre HTHL,CSS, FIGMA,AUTOGESTION,ORGANIZACION.
 - 📫 Puedes contactarme escribiendome a alvarezjs1990@gmail.com
